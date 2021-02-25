@@ -1,5 +1,5 @@
 {
-  "name": "http-response",
+  "name": "http-response-rks",
   "version": "1.0.0",
   "description": "HTTP responses",
   "main": "index.js",
