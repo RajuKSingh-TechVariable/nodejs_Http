@@ -1,6 +1,6 @@
 {
   "name": "http-response-rks",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "HTTP responses",
   "git repository": " https://github.com/RajuKSingh-TechVariable/nodejs_Http.git",
   "main": "index.js",
