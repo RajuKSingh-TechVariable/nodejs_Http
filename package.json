@@ -1,6 +1,6 @@
 {
   "name": "http-response-rks",
-  "version": "1.0.1",
+  "version": "1.0.0",
   "description": "HTTP responses",
   "main": "index.js",
   "scripts": {
